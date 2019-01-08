@@ -1,0 +1,166 @@
+DATE,year,month,DAY,date,starttime,endtime,endestimate,home,latitude,longitude,location,City ,State,opponents,Start Time,End Time,Attendence ,team name,season,Event Name,score,Win 
+2015116,2015,11,06,20151106,201511061900,201511062100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Southern New Hampshire,1900,2100,,Maryland Terrapins men's basketball team,exhibition,basketball,W 91-55,W
+20151113,2015,11,13,20151113,201511131900,201511132100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Mount St. Mary's,1900,2100,17950,Maryland Terrapins men's basketball team,regular,basketball,W 80-56,W
+2015/11/17,2015,11,17,20151117,201511172100,201511172300,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Georgetown,2100,2300,17950,Maryland Terrapins men's basketball team,regular,basketball,W 75-71,W
+2015/11/20,2015,11,20,20151120,201511201900,201511202100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Rider,1900,2100,17950,Maryland Terrapins men's basketball team,regular,basketball,W 65-58,W
+2015/11/24,2015,11,24,20151124,201511242030,201511242230,Y,N,,,"Hard Rock Hotel, Cancun, Mexico",Cancun,Mexico,Illinois State,2030,2230,982,Maryland Terrapins men's basketball team,regular,basketball,W 77-66,W
+2015/11/25,2015,11,25,20151125,201511252030,201511252230,Y,N,,,"Hard Rock Hotel, Cancun, Mexico",Cancun,Mexico,Rhode Island,2030,2230,982,Maryland Terrapins men's basketball team,regular,basketball,W 86-63,W
+2015/11/28,2015,11,28,20151128,201511282030,201511282230,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Cleveland State,2030,2230,17282,Maryland Terrapins men's basketball team,regular,basketball,W 80-63,W
+2015/12/1,2015,12,01,20151201,201512012130,201512012330,Y,N,,,"Dean Smith Center, Chapel Hill,NC",Chapel Hill,North Carolina,North Carolina,2130,2330,21163,Maryland Terrapins men's basketball team,regular,basketball,L 81-89,L
+2015/12/4,2015,12,04,20151204,201512041900,201512042100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Saint Francis,1900,2100,17950,Maryland Terrapins men's basketball team,regular,basketball,W 96-55,W
+2015/12/8,2015,12,08,20151208,201512082130,201512082330,Y,N,,,"Madison Square Garden, New York City, NY",New York City,New York,Connecticut,2130,2330,19812,Maryland Terrapins men's basketball team,regular,basketball,W 76-66,W
+2015/12/12,2015,12,12,20151212,201512121615,201512121815,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Maryland Eastern Shore,1615,1815,17950,Maryland Terrapins men's basketball team,regular,basketball,W 77-56,W
+2015/12/19,2015,12,19,20151219,201512191900,201512192100,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",Baltimore,Maryland,Princeton,1900,2100,11076,Maryland Terrapins men's basketball team,regular,basketball,W 82-61,W
+2015/12/27,2015,12,27,20151227,201512271600,201512271800,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Marshall,1600,1800,17950,Maryland Terrapins men's basketball team,regular,basketball,W 87-67,W
+2015/12/30,2015,12,30,20151230,201512301700,201512301900,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Penn State,1700,1900,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 70-64,W
+2016/1/2,2016,1,02,20160102,201601022000,201601022200,Y,N,,,"Welsh-Ryan Arena, Evanston, IL",Evanston,Illinois ,Northwestern,2000,2200,8117,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 72-59,W
+2016/1/6,2016,1,06,20160106,201601061900,201601062100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Rutgers,1900,2100,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 88-63,W
+2016/1/9,2016,1,09,20160109,201601091300,201601091500,Y,N,,,"Kohl Center, Madison, WI",Madison,Wisconsin,Wisconsin,1300,1500,17287,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 63-60,W
+2016/1/12,2016,1,12,20160112,201601122100,201601122300,Y,N,,,"Crisler Center, Ann Arbor, MI",Ann Arbor,Michigan,Michigan,2100,2300,12327,Maryland Terrapins men's basketball team,Big Ten Season,basketball,L 67-70,L
+2016/1/16,2016,1,16,20160116,201601161200,201601161400,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Ohio State,1200,1400,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 100-65,W
+2016/1/19,2016,1,19,20160119,201601192000,201601192200,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Northwestern,2000,2200,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 62-56,W
+2016/1/23,2016,1,23,20160123,201601231830,201601232030,Y,N,,,"Breslin Center, East Lansing, MI",East Lansing,Michigan,Michigan State,1830,2030,14797,Maryland Terrapins men's basketball team,Big Ten Season,basketball,L 65-74,L
+2016/1/28,2016,1,28,20160128,201601281900,201601282100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,lowa,1900,2100,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 74-68,W
+2016/1/31,2016,1,31,20160131,201601311300,201601311500,Y,N,,,"Value City Arena, Columbus, OH",Columbus,Ohio,Ohio State,1300,1500,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 66-61,W
+2016/1/3,2016,1,03,20160103,201601032030,201601032230,Y,N,,,"Pinnacle Bank Arena, Lincoln, NE",Lincoln,Nebraska,Nebraska,2030,2230,16592,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 70-65,W
+2016/1/6,2016,1,06,20160106,201601061600,201601061800,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Purdue,1600,1800,15693,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 72-61,W
+2016/1/9,2016,1,09,20160109,201601091800,201601092000,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Bowie State,1800,2000,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 93-62,W
+2016/1/12,2016,1,12,20160112,201601121830,201601122030,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Wisconsin,1830,2030,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,L 57-70,L
+2016/1/18,2016,1,18,20160118,201601182000,201601182200,Y,N,,,"Williams Arena, Minneapolis, MN",Minneapolis,Minnestota,Minnestota,2000,2200,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,L 63-68,L
+2016/1/21,2016,1,21,20160121,201601211300,201601211500,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Michigan,1300,1500,10768,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 86-82,W
+2016/1/27,2016,1,27,20160127,201601271600,201601271800,Y,N,,,"Mackey Arena, West Lafatette, IN",West Lafatette,Indiana,Purdue,1600,1800,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,L 79-83,L
+2016/3/3,2016,3,03,20160303,201603031900,201603032100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Illinois,1900,2100,14846,Maryland Terrapins men's basketball team,Big Ten Season,basketball,W 81-55,W
+2016/3/6,2016,3,06,20160306,201603061630,201603061830,Y,N,,,"Assembly Hall, Bloomington, IN",Bloomington,Indiana,Indiana,1630,1830,17950,Maryland Terrapins men's basketball team,Big Ten Season,basketball,L 62-80,L
+2016/3/11,2016,3,11,20160311,201603110900,201603111100,Y,N,,,"Bankers Life Fieldhouse, Indianapolis, IN",Indianapolis,Indiana,Nebraska,0900,1100,17472,Maryland Terrapins men's basketball team,Big Ten Tournament,basketball,W 96-86,W
+2016/3/12,2016,3,12,20160312,201603121530,201603121730,Y,N,,,"Bankers Life Fieldhouse, Indianapolis, IN",Indianapolis,Indiana,Michigan State,1530,1730,15942,Maryland Terrapins men's basketball team,Big Ten Tournament,basketball,L 61-64,L
+2016/3/18,2016,3,18,20160318,201603181630,201603181830,Y,N,,,"Spokane Veterans Memorial Arena, Spokane, WA",Spokane,"Washinton, D.C.",Spokane Veterans Memorial Arena,1630,1830,18339,Maryland Terrapins men's basketball team,NCAA Tournament,basketball,W 79-74,W
+2016/3/20,2016,3,20,20160320,201603201910,201603202110,Y,N,,,"Spokane Veterans Memorial Arena, Spokane, WA",Spokane,"Washinton, D.C.",Spokane Veterans Memorial Arena,1910,2110,11109,Maryland Terrapins men's basketball team,NCAA Tournament,basketball,W 73-60,W
+2016/3/24,2016,3,24,20160324,201603242140,201603242340,Y,N,,,"KFC Yum! Center, Louisville, KY",Louisville,"Washinton, D.C.",KFC Yum! Center,2140,2340,11296,Maryland Terrapins men's basketball team,NCAA Tournament,basketball,L 63-79,L
+2016/11/5,2016,11,05,20161105,201611051400,201611051600,Y,N,,,"xfinity Center, College Park, MD",College Park,Maryland,Catawba,1400,1600,19399,Maryland Terrapins men's basketball team,exhibition,basketball,W 95-61,W
+2016/11/11,2016,11,11,20161111,201611111900,201611112100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,American,1900,2100,17078,Maryland Terrapins men's basketball team,regular,basketball,W 62-56,W
+2016/11/15,2016,11,15,20161115,201611151830,201611152030,Y,N,,,"Verizon Center, Washinton, D.C.",,"Washinton, D.C.",Georgetown,1830,2030,13145,Maryland Terrapins men's basketball team,regular,basketball,W 76-75,W
+2016/11/17,2016,11,17,20161117,201611171900,201611172100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,St. Mary's college,1900,2100,15779,Maryland Terrapins men's basketball team,regular,basketball,W 93-45,W
+2016/11/20,2016,11,20,20161120,201611201400,201611201600,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Towson,1400,1600,16797,Maryland Terrapins men's basketball team,regular,basketball,W 71-66,W
+2016/11/22,2016,11,22,20161122,201611221900,201611222100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Stony Brook,1900,2100,14950,Maryland Terrapins men's basketball team,regular,basketball,W 77-63,W
+2016/11/25,2016,11,25,20161125,201611252130,201611252330,Y,N,,,"Barclays Center, Brooklyn, NY",Brooklyn,New York,Richmood,2130,2330,,Maryland Terrapins men's basketball team,regular,basketball,W 88-82,W
+2016/11/26,2016,11,26,20161126,201611262130,201611262330,Y,N,,,"Barclays Center, Brooklyn, NY",Brooklyn,New York,Kansas State,2130,2330,5011,Maryland Terrapins men's basketball team,regular,basketball,W 69-68,W
+2016/11/29,2016,11,29,20161129,201611291900,201611292100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Pittsburgh,1900,2100,17144,Maryland Terrapins men's basketball team,regular,basketball,L 59-73,L
+2016/12/3,2016,12,03,20161203,201612032100,201612032300,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Oklahoma State,2100,2300,17391,Maryland Terrapins men's basketball team,regular,basketball,W 71-70,W
+2016/12/7,2016,12,07,20161207,201612072100,201612072300,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Howard,2100,2300,15584,Maryland Terrapins men's basketball team,regular,basketball,W 79-56,W
+2016/12/10,2016,12,10,20161210,201612101200,201612101400,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Saint Peter's,1200,1400,14859,Maryland Terrapins men's basketball team,regular,basketball,W 66-56,W
+2016/12/12,2016,12,12,20161212,201612121900,201612122100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Jacksonville State,1900,2100,13646,Maryland Terrapins men's basketball team,regular,basketball,W 92-66,W
+2016/12/20,2016,12,20,20161220,201612201900,201612202100,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",Baltimore,Maryland,Baltimore,1900,2100,7139,Maryland Terrapins men's basketball team,regular,basketball,W 88-72,W
+2016/12/27,2016,12,27,20161227,201612271700,201612271900,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Illinois,1700,1900,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 84-59,W
+2017/1/1,2017,1,01,20170101,201701011200,201701011400,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Nebraska,1200,1400,15067,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 65-67,L
+2017/1/7,2017,1,07,20170107,201701071515,201701071715,Y,N,,,"Crisler Center, Ann Arbor, MI",Ann Arbor,Michigan,Michigan,1515,1715,11527,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 77-70,W
+2017/1/10,2017,1,10,20170110,201701102100,201701102300,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Indiana,2100,2300,17213,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 75-72,W
+2017/1/14,2017,1,14,20170114,201701141800,201701142000,Y,N,,,"State Farm Center,Champaign, IL",Champaign,Illinois ,Illinois,1800,2000,14002,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 62-56,W
+2017/1/19,2017,1,19,20170119,201701191900,201701192100,Y,N,,,"Carver–Hawkeye Arena, Lowa City, IA",Lowa City,Los Angeles,lowa,1900,2100,11040,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 84-76,W
+2017/1/24,2017,1,24,20170124,201701241900,201701242100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Rutgers,1900,2100,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 67-55,W
+2017/1/28,2017,1,28,20170128,201701281415,201701281615,Y,N,,,"Williams Arena, Minneapolis, MN",Minneapolis,Minnestota,Minnestota,1415,1615,11191,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 85-78,W
+2017/2/1,2017,2,01,20170201,201702011200,201702011400,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,,1200,1400,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 72-73,L
+2017/2/7,2017,2,07,20170207,201702071900,201702072100,Y,N,,,"Bryce Jordan Center, University Park, PA",University Park,Pennsylvania,Penn State,1900,2100,7063,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 64-70,L
+2017/2/11,2017,2,11,20170211,201702111600,201702111800,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,,1600,1800,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 86-77,W
+2017/2/15,2017,2,15,20170215,201702151900,201702152100,Y,N,,,"Welsh-Ryan Arena,Evanston, IL",Evanston,Illinois ,Northwestern,1900,2100,7707,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 74-64,W
+2017/2/19,2017,2,19,20170219,201702191300,201702191500,Y,N,,,"Kohl Center, Madison, WI",Madison,Wisconsin,Wisconsin,1300,1500,17289,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 60-71,L
+2017/2/22,2017,2,22,20170222,201702222030,201702222230,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Minnestota,2030,2230,17349,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 75-89,L
+2017/2/25,2017,2,25,20170225,201702251800,201702252000,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,lowa,1800,2000,17615,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 69-83,L
+2017/2/28,2017,2,28,20170228,201702281830,201702282030,Y,N,,,"Louis Brown Athletic Center,Piscataway,NJ",Piscataway,New Jersey,rutgers,1830,2030,6017,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 79-59,W
+2017/3/4,2017,3,04,20170304,201703041400,201703041600,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Michigan State,1400,1600,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 63-60,W
+2017/3/10,2017,3,10,20170310,201703102100,201703102300,Y,N,,,"Verizon Center, Washinton, D.C.",,"Washinton, D.C.",Northwestern,2100,2300,15624,Maryland Terrapins men's basketball team,Big Ten Tournament,basketball,L 62-74,L
+2017/3/16,2017,3,16,20170316,201703161850,201703162050,Y,N,,,"Amway Center,Orland, FL",Orland,Florida,Xavier,1850,2050,,Maryland Terrapins men's basketball team,NCAA Tournament,basketball,L 65-76,L
+2015/1/3,2015,1,03,20150103,201501031200,201501031400,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Minnestota,1200,1400,15788,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 70-58,W
+2015/1/7,2015,1,07,20150107,201501072100,201501072300,Y,N,,,"State Farm Center,Champaign, IL",Champaign,Illinois ,Illinois,2100,2300,12896,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 57-64,L
+2015/1/10,2015,1,10,20150110,201501101430,201501101630,Y,N,,,"Mackey Arena, West Lafatette, IN",West Lafatette,Indiana,Purdue,1430,1630,10756,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 69-60,W
+2015/1/14,2015,1,14,20150114,201501141900,201501142100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Rutgers,1900,2100,12419,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 73-65,W
+2015/1/17,2015,1,17,20150117,201501171600,201501171800,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Michigan State,1600,1800,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 75-59,W
+2015/1/22,2015,1,22,20150122,201501222100,201501222300,Y,N,,,"Assembly Hall, Bloomington, IN",Bloomington,Indiana,Indiana,2100,2300,17472,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 70-89,L
+2015/1/25,2015,1,25,20150125,201501251930,201501252130,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Northwestern,1930,2130,14113,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 68-67,W
+2015/1/29,2015,1,29,20150129,201501291900,201501292100,Y,N,,,"Value City Arena, Columbus, OH",Columbus,Ohio,Ohio State,1900,2100,14483,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 56-80,L
+2015/2/4,2015,2,04,20150204,201502042030,201502042230,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Penn State,2030,2230,14195,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 64-58,W
+2015/2/8,2015,2,08,20150208,201502081515,201502081715,Y,N,,,"Carver–Hawkeye Arena, Lowa City, IA",Lowa City,Los Angeles,lowa,1515,1715,15400,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,L 55-71,L
+2015/2/11,2015,2,11,20150211,201502112100,201502112300,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Indiana,2100,2300,15304,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 68-66,W
+2015/2/14,2015,2,14,20150214,201502142030,201502142230,Y,N,,,"Bryce Jordan Center, University Park, PA",University Park,Pennsylvania,Penn State,2030,2230,8303,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 76-73,W
+2015/2/19,2015,2,19,20150219,201502191900,201502192100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Nebraska,1900,2100,14376,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 69-65,W
+2015/2/24,2015,2,24,20150224,201502241900,201502242100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Wisconsin,1900,2100,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 59-53,W
+2015/2/28,2015,2,28,20150228,201502281900,201502282100,Y,N,,,"Xfinity Center, College Park, MD",College Park,Maryland,Michigan,1900,2100,17950,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 66-56,W
+2015/3/3,2015,3,03,20150303,201503031900,201503032100,Y,N,,,"The RAC, Piscataway,NJ",Piscataway,New Jersey,Rutgers,1900,2100,7053,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 60-50,W
+2015/3/8,2015,3,08,20150308,201503081930,201503082130,Y,N,,,"Pinnacle Bank Arena, Lincoln, NE",Lincoln,Nebraska,Nebraska,1930,2130,15856,Maryland Terrapins men's basketball team,Big Ten regular season,basketball,W 64-61,W
+2015/3/13,2015,3,13,20150313,201503131830,201503132030,Y,N,,,"United Center, Chicago, IL",Chicago,Illinois ,Indiana,1830,2030,17230,Maryland Terrapins men's basketball team,Big Ten Tournament,basketball,W 75-69,W
+2015/3/14,2015,3,14,20150314,201503141600,201503141800,Y,N,,,"United Center, Chicago, IL",Chicago,Illinois ,Michigan State,1600,1800,18088,Maryland Terrapins men's basketball team,Big Ten Tournament,basketball,L 58-62,L
+2015/3/20,2015,3,20,20150320,201503201640,201503201840,Y,N,,,"Nationalwide Arena, Columbus, OH",Columbus,Ohio,Valparaiso,1640,1840,18417,Maryland Terrapins men's basketball team,NCAA Tournament,basketball,W 65-62,W
+2015/3/22,2015,3,22,20150322,201503222040,201503222240,Y,N,,,"Nationalwide Arena, Columbus, OH",Columbus,Ohio,West Virginia,2040,22:40,19115,Maryland Terrapins men's basketball team,NCAA Tournament,basketball,L 59-63,L
+2015/11/7,2015,11,07,20151107,202102230000,202109110000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/11/14,2015,11,14,20151114,202103020000,202109180000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/11/21,2015,11,21,20151121,202103090000,202109250000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/11/28,2015,11,28,20151128,201910030000,202004200000,N,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2015/12/4,2015,12,04,20151204,202103220000,202110080000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/12/11,2015,12,11,20151211,202103240000,202110100000,N,N,,,"Oncenter War Memorial Arena, Syracuse, New York",,,,,,,,,,,
+2015/12/18,2015,12,18,20151218,202104050000,202110220000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/12/31,2015,12,31,20151231,202008310000,202103190000,N,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2016/1/2,2016,1,02,20160102,202103210000,202110070000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/1/8,2016,1,08,20160108,202104260000,202111120000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/1/9,2016,1,09,20160109,202104270000,202111130000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/1/24,2016,1,24,20160124,201908160000,202003030000,N,N,,,"Oncenter War Memorial Arena, Syracuse, New York",,,,,,,,,,,
+2016/1/30,2016,1,30,20160130,202104180000,202111040000,N,N,,,"Family Arena, St. Charles, Missouri",,,,,,,,,,,
+2016/1/31,2016,1,31,20160131,202003150000,202010010000,N,N,,,"Independence Events Center, Independence, Missouri",,,,,,,,,,,
+2016/2/15,2016,2,15,20160215,202102230000,202109110000,N,N,,,"Sears Centre Arena, Hoffman Estates, Illinois",,,,,,,,,,,
+2016/2/19,2016,2,19,20160219,202106070000,202112240000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/2/21,2016,2,21,20160221,202011210000,202106090000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/2/26,2016,2,26,20160226,202106140000,202112310000,N,N,,,"Family Arena, St. Charles, Missouri",,,,,,,,,,,
+2016/2/27,2016,2,27,20160227,202106150000,202201010000,N,N,,,"Independence Events Center, Independence, Missouri",,,,,,,,,,,
+2016/3/11,2016,3,11,20160311,202106280000,202201140000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/3/13,2016,3,13,20160313,202008040000,202102200000,N,N,,,"Oncenter War Memorial Arena, Syracuse, New York",,,,,,,,,,,
+2016/3/24,2016,3,24,20160324,202106110000,202112280000,N,N,,,"Independence Events Center, Independence, Missouri",,,,,,,,,,,
+2016/3/29,2016,3,29,20160329,202106160000,202201020000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/4/10,2016,4,10,20160410,202103200000,202110060000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/4/15,2016,4,15,20160415,202110110000,202204290000,N,N,,,"El Centro de Usos Multiples, Mazatlan, Sinaloa",,,,,,,,,,,
+2016/11/5,2016,11,05,20161105,202201230000,202209150000,N,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2016/11/11,2016,11,11,20161111,202202280000,202209160000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/11/18,2016,11,18,20161118,202203070000,202209180000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/12/3,2016,12,03,20161203,202202190000,202209180000,N,N,,,"Lakeland Center, Lakeland,Florida",,,,,,,,,,,
+2016/12/10,2016,12,10,20161210,202203290000,202210240000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2016/12/11,2016,12,11,20161211,202108120000,202209290000,N,N,,,"Silverstein Eye Centers Arena, Independence, Missouri",,,,,,,,,,,
+2016/12/17,2016,12,17,20161217,202203060000,202210050000,N,N,,,"Allen Event Center, Allen, Texas",,,,,,,,,,,
+2016/12/29,2016,12,29,20161229,202203130000,202209290000,Y,N,,,"Oncenter War Memorial Arena, Syracuse, New York",,,,,,,,,,,
+2016/12/30,2016,12,30,20161230,202204180000,202211180000,N,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2017/1/7,2017,1,07,20170107,202203270000,202211070000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/1/14,2017,1,14,20170114,202204030000,202210240000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/1/20,2017,1,20,20170120,202204090000,202210260000,Y,N,,,"U. S. Cellular Center, Asheville, North Carolina",,,,,,,,,,,
+2017/1/21,2017,1,21,20170121,202112310000,202207280000,N,N,,,"UW-Milwaukee Panther Arena, Milwaukee, Wisconsin",,,,,,,,,,,
+2017/1/29,2017,1,29,20170129,202106220000,202201070000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/2/4,2017,2,04,20170204,202204240000,202211240000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/2/17,2017,2,17,20170217,202206060000,202212250000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/2/19,2017,2,19,20170219,202107130000,202202060000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/2/24,2017,2,24,20170224,202206080000,202301060000,N,N,,,"Oncenter War Memorial Arena, Syracuse, New York",,,,,,,,,,,
+2017/2/26,2017,2,26,20170226,202104110000,202111170000,N,N,,,"Family Arena, St. Charles, Missouri",,,,,,,,,,,
+2017/3/5,2017,3,05,20170305,202107270000,202203140000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/3/11,2017,3,11,20170311,202205290000,202301050000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/3/15,2017,3,15,20170315,202207020000,202301280000,N,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2017/3/15,2017,3,15,20170315,202301180000,202304270000,N,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2017/3/18,2017,3,18,20170318,202206050000,202301010000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/3/21,2017,3,21,20170321,202203300000,202210180000,N,N,,,"UW-Milwaukee Panther Arena, Milwaukee, Wisconsin",,,,,,,,,,,
+2017/3/21,2017,3,21,20170321,202210160000,202301130000,N,N,,,"UW-Milwaukee Panther Arena, Milwaukee, Wisconsin",,,,,,,,,,,
+2017/4/7,2017,4,07,20170407,202210030000,202305110000,N,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2017/4/9,2017,4,09,20170409,202301130000,202308010000,Y,N,,,"El Centro de Usos Multiples, Mazatlan, Sinaloa",,,,,,,,,,,
+2017/4/10,2017,4,10,20170410,202007280000,202102130000,Y,N,,,"El Centro de Usos Multiples, Mazatlan, Sinaloa",,,,,,,,,,,
+2015/1/3,2015,1,03,20150103,202003220000,202010080000,Y,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2015/1/10,2015,1,10,20150110,202004280000,202011140000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/1/16,2015,1,16,20150116,202004040000,202010210000,Y,N,,,"UW-Milwaukee Panther Arena, Milwaukee, Wisconsin",,,,,,,,,,,
+2015/1/17,2015,1,17,20150117,202004050000,202010220000,Y,N,,,"Melvindale Civic Center, Melcindale, Michigan",,,,,,,,,,,
+2015/1/24,2015,1,24,20150124,202001030000,202007210000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/2/6,2015,2,06,20150206,202004200000,202011060000,Y,N,,,"Orleans Arena, Las Vegas, NV",,,,,,,,,,,
+2015/2/7,2015,2,07,20150207,202004260000,202011120000,Y,N,,,"Valley View Casino Center,San Diego, California ",,,,,,,,,,,
+2015/2/13,2015,2,13,20150213,202006010000,202012180000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/2/20,2015,2,20,20150220,202006080000,202012250000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/2/21,2015,2,21,20150221,202001310000,202008180000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/2/27,2015,2,27,20150227,202006150000,202101010000,Y,N,,,"Farm Show Large Arena, Harrisbug, Pennsylvana",,,,,,,,,,,
+2015/3/1,2015,3,01,20150301,201907180000,202002030000,Y,N,,,"Blue Cross Arena, Rochester, New York",,,,,,,,,,,
+2015/3/11,2015,3,11,20150311,202005280000,202012140000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/3/13,2015,3,13,20150313,201904260000,201911120000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/3/15,2015,3,15,20150315,201904280000,201911140000,Y,N,,,"Independence Events Center, Independence, Missouri",,,,,,,,,,,
+2015/3/20,2015,3,20,20150320,202007060000,202101220000,Y,Y,39.288416,-76.618720,"Royal Farms Arena, Baltimore, MD",,,,,,,,,,,
+2015/3/22,2015,3,22,20150322,201911210000,202006080000,Y,N,,,"Arena Monterrey, Monterrey, Mexico",,,,,,,,,,,
+2015/3/22,2015,3,22,20150322,202007080000,202101240000,Y,N,,,"Arena Monterrey, Monterrey, Mexico",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,

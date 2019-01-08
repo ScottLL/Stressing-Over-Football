@@ -1,0 +1,73 @@
+City ,State,opponents,Start Time,End Time,Attendence ,team name,season,Event Name,score,Win 
+Baltimore,Maryland,Chicago Mustangs,1935,2135,9442,Baltimore Blast,regular season,soccer,W 7-4,W
+Baltimore,Maryland,Syracuse Silver Knights,1935,2135,4140,Baltimore Blast,regular season,soccer,W 6-0,W
+Baltimore,Maryland,Waza Flo,1935,2135,3204,Baltimore Blast,regular season,soccer,W 11-1,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1405,1605,1973,Baltimore Blast,regular season,soccer,W 9-2,W
+Baltimore,Maryland,San Diego Sockers,1935,2135,8953,Baltimore Blast,regular season,soccer,W 8-5,W
+Syracuse,New York,Syracuse Silver Knights,1930,2130,1986,Baltimore Blast,regular season,soccer,W 5-2,W
+Baltimore,Maryland,Harrisburg Heat,1935,2135,4611,Baltimore Blast,regular season,soccer,W 5-1,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1705,1905,1583,Baltimore Blast,regular season,soccer,W 8-3,W
+Baltimore,Maryland,Syracuse Silver Knights,1905,2105,4021,Baltimore Blast,regular season,soccer,W 7-3,W
+Baltimore,Maryland,Waza Flo,1935,2135,3921,Baltimore Blast,regular season,soccer,W 9-3,W
+Baltimore,Maryland,Harrisburg Heat,1935,2135,6630,Baltimore Blast,regular season,soccer,W 6-4,W
+Syracuse,New York,Syracuse Silver Knights,1300,1500,2948,Baltimore Blast,regular season,soccer,L 2-3,L
+St. Charles,Missouri,St. Louis Ambush,1905,2105,5721,Baltimore Blast,regular season,soccer,W 6-1,W
+Independence,Missouri,Missouri Comets,1505,1705,4101,Baltimore Blast,regular season,soccer,L 4-6,L
+Hoffman Estates,Illinois ,Chicago Mustangs,1835,2035,3339,Baltimore Blast,regular season,soccer,W 10-5,W
+Baltimore,Maryland,Missouri Comets,1935,2135,8121,Baltimore Blast,regular season,soccer,L 4-5,L
+Baltimore,Maryland,Harrisburg Heat,1735,1935,7984,Baltimore Blast,regular season,soccer,W 9-0,W
+St. Charles,Missouri,St. Louis Ambush,1935,2135,6719,Baltimore Blast,regular season,soccer,W 9-4,W
+Independence,Missouri,Missouri Comets,1935,2135,5214,Baltimore Blast,regular season,soccer,L 4-5,L
+Baltimore,Maryland,Syracuse Silver Knights,1935,2135,4041,Baltimore Blast,post season,soccer,W 6-5,W
+Syracuse,New York,Syracuse Silver Knights,1605,1805,2042,Baltimore Blast,post season,soccer,W 6-4,W
+Independence,Missouri,Missouri Comets,1905,2105,3011,Baltimore Blast,post season,soccer,W 4-3,W
+Baltimore,Maryland,Missouri Comets,1905,2105,4102,Baltimore Blast,post season,soccer,W 4-0,W
+Baltimore,Maryland,Soles de Sonora,1805,2005,7243,Baltimore Blast,post season,soccer,W 5-0,W
+Mazatlán,Sinaloa,Soles de Sonora,2005,2205,8324,Baltimore Blast,post season,soccer,W 14-13,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1905,2140,1627,Baltimore Blast,regular,soccer,W 11-6,W
+Baltimore,Maryland,Milwaukee Wave,1935,2135,7813,Baltimore Blast,regular,soccer,L 3-4,L
+Baltimore,Maryland,Florida Tropics,1935,2130,4121,Baltimore Blast,regular,soccer,W 7-1,W
+Lakeland,Florida,Florida Tropics,1904,2115,2134,Baltimore Blast,regular,soccer,W 5-1,W
+Baltimore,Maryland,Florida Tropics,1935,2144,7450,Baltimore Blast,regular,soccer,W 7-0,W
+Independence,Missouri,Kansas City Comets,1705,2118,3118,Baltimore Blast,regular,soccer,L 1-5,L
+Allen,Texas,Dallas Sidekicks,1905,2118,1661,Baltimore Blast,regular,soccer,W 8-4,W
+Syracuse,New York,Syracuse Silver Knights,1900,2100,2032,Baltimore Blast,regular,soccer,W 6-3,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1935,2149,1675,Baltimore Blast,regular,soccer,L 4-7,L
+Baltimore,Maryland,Dallas Sidekicks,1905,2130,7230,Baltimore Blast,regular,soccer,W 7-2,W
+Baltimore,Maryland,Harrisburg Heat,1905,2109,5102,Baltimore Blast,regular,soccer,W 5-2,W
+Asheville,North Carolina,Cedar Rapids Rampage,1905,2105,1871,Baltimore Blast,regular,soccer,L 3-5,L
+Milwaukee,Wisconsin,Milwaukee Wave,1805,2014,3171,Baltimore Blast,regular,soccer,L 2-7,L
+Baltimore,Maryland,St. Louis Ambush,1605,1804,4751,Baltimore Blast,regular,soccer,W 10-1,W
+Baltimore,Maryland,Milwaukee Wave,1905,2119,9722,Baltimore Blast,regular,soccer,W 5-2,W
+Baltimore,Maryland,Syracuse Silver Knights,1935,2137,6131,Baltimore Blast,regular,soccer,W 8-4,W
+Baltimore,Maryland,Syracuse Silver Knights,1605,1813,4524,Baltimore Blast,regular,soccer,L 2-7,L
+Syracuse,New York,Syracuse Silver Knights,1930,2142,2949,Baltimore Blast,regular,soccer,W 5-4,W
+St. Charles,Missouri,St. Louis Ambush,1505,1725,3378,Baltimore Blast,regular,soccer,W 3-1,W
+Baltimore,Maryland,Harrisburg Heat,1605,1835,6152,Baltimore Blast,regular,soccer,W 11-3,W
+Baltimore,Maryland,Harrisburg Heat,1905,2126,4214,Baltimore Blast,post season,soccer,W 4-5,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1935,2145,1142,Baltimore Blast,post season,soccer,W 7-4,W
+Harrisbug,Pennsylvana,Harrisburg Heat,2135,2234,1142,Baltimore Blast,post season,soccer,W 4-1,W
+Baltimore,Maryland,Milwaukee Wave,1905,2115,3235,Baltimore Blast,post season,soccer,W 8-7,W
+Milwaukee,Wisconsin,Milwaukee Wave,1835,2037,2218,Baltimore Blast,post season,soccer,L 4-8,L
+Milwaukee,Wisconsin,Milwaukee Wave,2035,2124,2218,Baltimore Blast,post season,soccer,W 2-1,W
+Baltimore,Maryland,Soles de Sonora,2005,2225,6701,Baltimore Blast,post season,soccer,L 2-4,L
+Mazatlán,Sinaloa,Soles de Sonora,2105,2305,8000,Baltimore Blast,post season,soccer,W 9-8,W
+Mazatlán,Sinaloa,Soles de Sonora,1205,1405,8000,Baltimore Blast,post season,soccer,W 1-0,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1905,2105,1487,Baltimore Blast,regular,soccer,W 29-8,W
+Baltimore,Maryland,Syracuse Silver Knights,1935,2135,6431,Baltimore Blast,regular,soccer,W 22-4,W
+Milwaukee,Wisconsin,Milwaukee Wave,1905,2105,2317,Baltimore Blast,regular,soccer,W 5-3,W
+Melcindale,Michigan,Detroit Waza,1905,2105,734,Baltimore Blast,regular,soccer,W 9-6,W
+Baltimore,Maryland,Rochester Lancers,1805,2005,6942,Baltimore Blast,regular,soccer,W 15-7,W
+Las Vegas,NV,Las Vegas Legends,1900,2100,2028,Baltimore Blast,regular,soccer,L 4-5,L
+San Diego,California,San Diego Sockers,1905,2105,6247,Baltimore Blast,regular,soccer,L 2-7,L
+Baltimore,Maryland,Rochester Lancers,1935,2135,6761,Baltimore Blast,regular,soccer,W 11-0,W
+Baltimore,Maryland,Chicago Mustangs,1935,2135,6642,Baltimore Blast,regular,soccer,W 24-0,W
+Baltimore,Maryland,Harrisburg Heat,1805,2005,5270,Baltimore Blast,regular,soccer,W 25-5,W
+Harrisbug,Pennsylvana,Harrisburg Heat,1935,2135,4989,Baltimore Blast,regular,soccer,W 24 -13,W
+Rochester,New York,Rochester Lancers,1600,1800,10215,Baltimore Blast,regular,soccer,W 25-23,W
+Baltimore,Maryland,Rochester Lancers,1905,2105,5544,Baltimore Blast,post season,soccer,W 6-4,W
+Baltimore,Maryland,Missouri Comets,1505,1705,4562,Baltimore Blast,post season,soccer,W 6-4,W
+Independence,Missouri,Missouri Comets,1505,1705,3862,Baltimore Blast,post season,soccer,W 10-7,W
+Baltimore,Maryland,Monterrey Flash,1935,2135,6712,Baltimore Blast,post season,soccer,L 4-6,L
+Menterrey,Mexico,Monterrey Flash,1705,1905,8783,Baltimore Blast,post season,soccer,W 6-4,W
+Menterrey,Mexico,Monterrey Flash,1935,2135,8783,Baltimore Blast,post season,soccer,L 4-3,L

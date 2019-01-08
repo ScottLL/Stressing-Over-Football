@@ -1,0 +1,43 @@
+year,day,date,InMD,location ,attendance,StartTimeH,StartTimeM,team,match team,win,score,gap
+2015,Sun,13-Sep,N,"Denver, CO",76798,4,25,Baltimore Ravens,Denver Broncos,L,19-13,-6
+2015,Sun,20-Sep,N,"Oakland, CA",53500,4,5,Baltimore Ravens,Oakland Raiders,L,37-33,-4
+2015,Sun,27-Sep,Y,"Baltimore, MD",70970,1,2,Baltimore Ravens,Cincinnati Bengals,L,28-24,-4
+2015,Thu,1-Oct,N,"Pittsburgh, PA",63929,8,26,Baltimore Ravens,Pittsburgh Steelers,W,23-20,3
+2015,Sun,11-Oct,Y,"Baltimore, MD",71046,1,2,Baltimore Ravens,Cleveland Browns,L,33-30,-3
+2015,Sun,18-Oct,N,"Santa Clara, CA",70799,4,25,Baltimore Ravens,San Francisco 49ers,L,25-20,-5
+2015,Mon,26-Oct,N,"Glendale, AZ",64722,8,30,Baltimore Ravens,Arizona Cardinals,L,26-18,-8
+2015,Sun,1-Nov,Y,"Baltimore, MD",70829,1,2,Baltimore Ravens,San Diego Chargers,W,29-26,13
+2015,Sun,15-Nov,Y,"Baltimore, MD",79837,1,5,Baltimore Ravens,Jacksonville Jaguars,L,22-20,-2
+2015,Sun,22-Nov,Y,"Baltimore, MD",71105,1,2,Baltimore Ravens,St. Louis Rams,W,16-13,3
+2015,Mon,30-Nov,N,"Cleveland, OH",64380,8,30,Baltimore Ravens,Cleveland Browns,W,33-27,6
+2015,Sun,6-Dec,N,"Miami Gardens, FL",64519,1,3,Baltimore Ravens,Miami Dolphins,L,15-13,-2
+2015,Sun,13-Dec,Y,"Baltimore, MD",71179,1,2,Baltimore Ravens,Seattle Seahawks,L,35-6,-29
+2015,Sun,20-Dec,Y,"Baltimore, MD",70791,1,2,Baltimore Ravens,Kansas City Chiefs,L,34-14,-20
+2015,Sun,27-Dec,Y,"Baltimore, MD",71261,1,2,Baltimore Ravens,Pittsburgh Steelers,W,20-17,3
+2016,Sun,3-Jan,N,"Cincinnati, OH",57254,1,2,Baltimore Ravens,Cincinnati Bengals,L,24-16,-8
+2016,Sun,11-Sep,Y,"Baltimore, MD",71104,1,4,Baltimore Ravens,Buffalo Bills,W,13-7,6
+2016,Sun,18-Sep,N,"Cleveland, OH",67431,1,2,Baltimore Ravens,Cleveland Browns,W,25-20,5
+2016,Sun,25-Sep,N,"Jacksonville, FL",60127,1,2,Baltimore Ravens,Jacksonville Jaguars,W,19-17,2
+2016,Sun,2-Oct,Y,"Baltimore, MD",71152,1,2,Baltimore Ravens,Oakland Raiders,L,28-27,-1
+2016,Sun,9-Oct,Y,"Baltimore, MD",71318,1,3,Baltimore Ravens,Washington Redskins,L,16-10,-6
+2016,Sun,16-Oct,N,"East Rutherford, NJ",78487,1,2,Baltimore Ravens,New York Giants,L,27-23,-4
+2016,Sun,23-Oct,N,"East Rutherford, NJ",78160,1,4,Baltimore Ravens,New York Jets,L,24-16,-8
+2016,Sun,6-Nov,Y,"Baltimore, MD",71286,1,0,Baltimore Ravens,Pittsburgh Steelers,W,21-14,7
+2016,Thur,10-Nov,Y,"Baltimore, MD",70921,8,25,Baltimore Ravens,Cleveland Browns,W,28-7,21
+2016,Sun,20-Nov,N,"Arlington, TX",93056,1,0,Baltimore Ravens,Dallas Cowboys,L,27-17,-10
+2016,Sun,27-Nov,Y,"Baltimore, MD",70903,1,0,Baltimore Ravens,Cincinnati Bengals,W,19-14,5
+2016,Sun,4-Dec,Y,"Baltimore, MD",70916,1,0,Baltimore Ravens,Miami Dolphins,W,38-6,32
+2016,Mon,12-Dec,N,"Foxborough, MA",66829,8,30,Baltimore Ravens,New England Patriots,L,30-23,-7
+2016,Sun,18-Dec,Y,"Baltimore, MD",71223,1,0,Baltimore Ravens,Philadelphia Eagles,W,27-26,1
+2016,Sun,25-Dec,N,"Pittsburgh, PA",66276,4,30,Baltimore Ravens,Pittsburgh Steelers,L,31-27,-4
+2017,Sun,1-Jan,N,"Cincinnati, OH",54944,1,0,Baltimore Ravens,Cincinnati Bengals,L,27-10,-17
+2017,Sat,10-Sep,N,"Cincinnati, OH",55254,1,0,Baltimore Ravens,Cincinnati Bengals,W,20-0,20
+2017,Sat,17-Sep,Y,"Baltimore, MD",70605,1,0,Baltimore Ravens,Cleveland Browns,W,24-10,14
+2017,Sat,24-Sep,N,"London, UK",84592,9,30,Baltimore Ravens,Jacksonville Jaguars,L,44-7,-34
+2017,Sat,1-Oct,Y,"Baltimore, MD",71126,1,0,Baltimore Ravens,Pittsburgh Steelers,L,26-9,-17
+2017,Sat,8-Oct,N,"Oakland, CA",4980,4,5,Baltimore Ravens,Oakland Raiders,W,30-17,13
+2017,Sat,15-Oct,Y,"Baltimore, MD",70616,1,0,Baltimore Ravens,Chicago Bears,L,27-24,-3
+2017,Sat,22-Oct,N,"Minneapolis,MN",66751,1,0,Baltimore Ravens,Minnesota Vikings,L,24-16,-8
+2017,Thur,26-Oct,Y,"Baltimore, MD",70408,8,25,Baltimore Ravens,Miami Dolphins,W,40-0,40
+2017,Sun,5-Nov,N,"Nashville, TN",67322,1,0,Baltimore Ravens,Tennessee Titans,L,23-20,-3
+2017,Sun,19-Nov,N,"Green Bay, WI",77945,1,0,Baltimore Ravens,Green Bay Packers,W,23-0,23
